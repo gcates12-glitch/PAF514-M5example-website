@@ -55,21 +55,27 @@ The instructions above explain how to use Beautiful Jekyll in the easiest way: b
 
 
 <style>
-<!-- only <h3> headers between <div class=gs-section-01> tags -->
 
 .gs-section-01 h3 { 
-   color: red
+   color: red}
+   
+.gs-section-01 p {
+   font-size: 30px;
 }
 
-<!-- only <h3> headers between <div class=gs-section-02> tags -->
 
 .gs-section-02 h3 { 
    color: blue
 }
-
- <!-- only <h3> headers between <div class=gs-section-03> tags -->
+.gs-section-02 p {
+   font-size: 40px;
+}
 
 .gs-section-03 h3 { 
    color: orange
 }
+ .gs-section-03 p {
+   font-size: 50px;
+}
+   
 </style>
