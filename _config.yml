@@ -9,7 +9,7 @@
 title: PAF514 Cates M5 Website
 
 # Short description of your site
-description: Example website to practice web development
+description: "Example website to practice web development"
 
 # Your name to show in the footer
 author: Ginger Cates
@@ -81,7 +81,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://github.com/gcates12-glitch/PAF514-M5example-website/"
+url-pretty: "Ginger Cates Website"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
