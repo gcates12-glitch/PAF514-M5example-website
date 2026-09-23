@@ -15,7 +15,8 @@ description: "Example website to practice web development"
 author: Ginger Cates
 
 # Define site url
-url: https://gcates12-glitch.github.io/PAF514-M5example-website/
+url: https://gcates12-glitch.github.io
+baseurl: /PAF514-M5example-website/
 
 # --- List of links in the navigation bar --- #
 
